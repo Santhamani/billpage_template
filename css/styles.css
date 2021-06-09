@@ -3,7 +3,7 @@
 h1{
 	color: blue;
 }
-.bank-details, .shop-address, .shop-details{
+.bank-details, .shop-address, .shop-details, .footer-declaration{
 	font-size: 14px;
 }
 .detail-td{
@@ -23,5 +23,8 @@ h1{
      opacity: 1; 
  }
  .sign{
- 	margin-top: 70px;
+ 	margin-top: 60px;
+ }
+ .footer-org-name{
+ 	font-size: 16px;
  }
