@@ -6,3 +6,19 @@ h1{
 .bank-details, .shop-address, .shop-details{
 	font-size: 14px;
 }
+.detail-td{
+	padding: 0px;
+}
+.header-table>:not(caption)>*>* {
+    padding: 0rem 0rem;
+    
+ }
+ .header-table{
+ 	margin-bottom: .2rem;
+ }
+ .hr-line{
+    margin: 1rem 0; 
+     background-color: #000; 
+     border: thin solid #000; 
+     opacity: 1; 
+ }
